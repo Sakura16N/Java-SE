@@ -1,2 +1,2 @@
 # Java-SE
-This is a repository of record od learning Java SE.
+This is a repository of record of learning Java SE.
